@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.img_deg{
+  float: right;
+  width: 140%;
+
+}
+.text{
+  float:inline-end;
+  width: fit-content;
+}
